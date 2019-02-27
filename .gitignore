@@ -1,0 +1,6 @@
+/cmake-build-debug*
+/cmake-build-release*
+/gopath/
+/tank/
+/tester/
+/.idea/workspace.xml
